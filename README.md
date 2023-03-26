@@ -1,4 +1,4 @@
-![alt text](https://github.com/[wannasafah]/[lab5-devtools]/blob/[main]/flask.jpg?raw=true)
+![alt text](https://github.com/wannasafah/lab5-devtools/blob/main/flask.jpg?raw=true)
 ### Clone
 
 ```
